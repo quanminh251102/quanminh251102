@@ -1,6 +1,6 @@
 ### WELCOME TO MY PAGE 👋👋👋
 
-My name is Quan Le. I am a Software Engineering Student of University of Information Technology. I am interested in developing Mobile App with Flutter Framework.<br>
+My name is Quan Le.I am a Software Engineering Student of University of Information Technology. I am interested in developing Mobile App with Flutter Framework.<br>
 
 ## 📫 How to reach me:
 
